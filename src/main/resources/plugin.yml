@@ -1,0 +1,9 @@
+name: DPSlots
+version: '${project.version}'
+main: net.mmf55dev.dpslots.DPSlots
+api-version: '1.20'
+commands:
+  slotconfig:
+    description: si
+  slotwhitelist:
+    description: no
